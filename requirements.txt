@@ -1,0 +1,5 @@
+jupyterlab
+pyspark==3.5.6
+findspark
+pyarrow
+pandas
